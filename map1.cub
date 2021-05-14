@@ -1,0 +1,14 @@
+R      1024 768
+NO ./textures/pink_shulker_box.xpm
+SO ./textures/mossy_stone_bricks.xpm
+WE ./textures/debug.xpm
+EA ./textures/granite.xpm
+S    ./textures/barrel.xpm
+F 188, 143, 143          
+C 176, 224, 233   
+
+111
+101
+1N1
+111
+
